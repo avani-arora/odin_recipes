@@ -1,5 +1,5 @@
 body {
-    background-color:	#ffb3b3;
+    background-color:#FDE5EC;
     height:'100vh';
     overflow:hidden
 }
@@ -22,7 +22,7 @@ body {
 }
 .recipe-list a{
     text-align:center;
-    color:#ff6600;
+    color:#98D7C2;
     font-size : 24px;
 }
 
