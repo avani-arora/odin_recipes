@@ -1,0 +1,28 @@
+body {
+    background-color:	#ffb3b3;
+    height:'100vh';
+    overflow:hidden
+}
+.main-heading,
+.subheading,
+.recipe-list-item {
+    text-align:center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight:bold;
+    
+}
+.main-heading {
+    font-size: 48px;
+}
+.subheading {
+    font-size: 24px
+}
+.recipe-list {
+    list-style-type:none;
+}
+.recipe-list a{
+    text-align:center;
+    color:#ff6600;
+    font-size : 24px;
+}
+
